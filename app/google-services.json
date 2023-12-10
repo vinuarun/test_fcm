@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750836744338",
+    "project_id": "notificationapplication-a947c",
+    "storage_bucket": "notificationapplication-a947c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750836744338:android:141c47241aeb320ea1264b",
+        "android_client_info": {
+          "package_name": "com.example.vinusnotifyingapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5W8xYkQz-7QCIy1lB0FbOgrSPoNEWrWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
